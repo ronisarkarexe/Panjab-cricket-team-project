@@ -1,0 +1,18 @@
+.playerCart-con{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    display:flex;
+    border-radius:10px;
+    box-shadow: 5px 5px 10px rgba(206, 202, 202, 0.7);
+    margin-right: 40px;
+    margin-left: 80px;
+}
+.playerCart-img img{
+    width: 300px;
+    height:200px;
+    border-radius: 10px;
+   
+}
+.playerCart-info{
+  margin-left: 150px;
+}

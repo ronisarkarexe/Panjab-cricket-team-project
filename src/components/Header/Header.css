@@ -1,0 +1,16 @@
+.logo-header{
+    height:80px;
+    display: flex;
+    background-color: rgb(185, 149, 149);
+}
+.header-img img{
+    height: 70px;
+    margin-left: 120px;
+    margin-top: 3px;
+}
+.header-title h1{
+    color:rgb(177, 59, 59);
+    margin-left: 380px;
+    margin-top: 12px;
+    font-weight: bold;
+}

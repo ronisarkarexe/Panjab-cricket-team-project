@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "KL Rahul",
+    "email": "ajupp0@dailymotion.com",
+    "salary": "164.15",
+    "img": "https://static.toiimg.com/thumb/msid-78329267,width-1200,height-900,resizemode-4/.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 2,
+    "name": "Mayank Agarwal",
+    "email": "hbareham1@nsw.gov.au",
+    "salary": "48.46",
+    "img": "https://images.news18.com/ibnlive/uploads/2020/09/1598962561_mayank-agarwal.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 3,
+    "name": "Chris Gayle",
+    "email": "aeggerton2@elpais.com",
+    "salary": "345.67",
+    "img": "https://static.toiimg.com/thumb/msid-78965647,width-1200,height-900,resizemode-4/.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 4,
+    "name": "Karun Nair",
+    "email": "upaynton3@buzzfeed.com",
+    "salary": "343.37",
+    "img": "https://www.mykhel.com/img/2020/08/karunnair-1597294424.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 5,
+    "name": "Nicholas Pooran",
+    "email": "fdesesquelle4@opera.com",
+    "salary": "186.89",
+    "img": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2020-10/D1BGjO7uV8.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 6,
+    "name": "Sheldon Cottrell",
+    "email": "cbrighouse5@engadget.com",
+    "salary": "10.25",
+    "img": "https://cdn.insidesport.co/wp-content/uploads/2020/10/02122620/2020-10-01-3.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 7,
+    "name": "Chris Jordan",
+    "email": "ndeal6@e-recht24.de",
+    "salary": "134.2",
+    "img": "https://images.indianexpress.com/2020/09/chris-jordan-ipl.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 8,
+    "name": "Hardus Viljoen",
+    "email": "bfrays7@theatlantic.com",
+    "salary": "23.69",
+    "img": "https://www.crictracker.com/wp-content/uploads/2019/09/CT_360940.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 9,
+    "name": "Murugan Ashwin",
+    "email": "vcunnington8@jiathis.com",
+    "salary": "240.93",
+    "img": "https://superstarsbio.com/wp-content/uploads/2020/02/Murugan-Ashwin.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 10,
+    "name": "Mohammed Shami",
+    "email": "gcockburn9@dyndns.org",
+    "salary": "27.99",
+    "img": "https://cdn.insidesport.co/wp-content/uploads/2020/11/21170039/sdfghjk-2.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 11,
+    "name": "Prabhsimran Singh",
+    "email": "wscardifeilda@boston.com",
+    "salary": "56.78",
+    "img": "https://thecricketlounge.com/wp-content/uploads/2020/07/prabhsimran-singh-m.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 12,
+    "name": "David Miller",
+    "email": "pmossb@sakura.ne.jp",
+    "salary": "1.15",
+    "img": "https://thecricketlounge.com/wp-content/uploads/2016/05/david-miller-getty-750-1.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 13,
+    "name": "Gleen Maxwell",
+    "email": "truskinc@archive.org",
+    "salary": "80.43",
+    "img": "https://www.mykhel.com/img/400x90/2021/02/glenn-maxwell-cheers-kxip-1613547534.jpg",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 14,
+    "name": "Deepak Hooda",
+    "email": "abickmored@cnn.com",
+    "salary": "17.48",
+    "img": "https://media.zenfs.com/en-US/Sportskeeda.in/a350241f55bea5f55e7e189037ec2d7f",
+    "team": "kings XI Punjab"
+  }, {
+    "id": 15,
+    "name": "Harpreet Brar",
+    "email": "echandere@amazon.de",
+    "salary": "8.02",
+    "img": "https://p.imgci.com/db/PICTURES/CMS/288100/288135.4.jpg",
+    "team": "kings XI Punjab"
+  }]

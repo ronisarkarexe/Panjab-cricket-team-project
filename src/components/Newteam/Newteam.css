@@ -1,0 +1,22 @@
+.teamList {
+    width: 260px;
+    height: 900px;
+    border-radius:10px;
+    background-color:lightcyan;
+    margin-right: 20px;
+    margin-top: 18px;
+}
+.teamList h4{
+    text-align:center;
+    color:burlywood;
+    margin-bottom: 20px;
+    border-bottom: 1px solid lightgray;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.teamList h5{
+    text-align: center;
+}
+.teamList p{
+    text-align: center;
+}
